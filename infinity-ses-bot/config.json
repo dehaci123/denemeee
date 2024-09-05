@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "guildId": "",
+    "voiceChannelId": "",
+    "activity": [
+        { "name": "000", "type": "LISTENING" },
+        { "name": "PRİME", "type": "PLAYING" },
+        { "name": ".gg/000prime", "type": "WATCHING" }
+    ]
+}
